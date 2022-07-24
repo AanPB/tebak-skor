@@ -1,5 +1,6 @@
 rencana belajar Aan
-- belajar Python
+- belajar Python 
+- belajar CSS
 - belajar JavaScript :
     -Framework
       *ReactJS
