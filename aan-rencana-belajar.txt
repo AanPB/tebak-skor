@@ -3,6 +3,7 @@ rencana belajar Aan
 - belajar CSS
 - belajar JavaScript :
     -Framework
-      *ReactJS
+      *ReactJs
+      *Angular
       *Vue
       *NodeJS
