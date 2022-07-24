@@ -4,3 +4,5 @@ rencana belajar Aan
 - belajar JavaScript :
     -Framework
       *ReactJS
+      *Vue
+      *NodeJS
